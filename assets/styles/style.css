@@ -101,7 +101,8 @@ section {
   display: block; }
 
 body {
-  line-height: 1; }
+  line-height: 1; 
+  font-weight: 500; }
 
 ol,
 ul {
@@ -531,12 +532,11 @@ a {
             margin-bottom: 6px;
             display: inline-block; }
         .sc-table-inner .pricing-table .table-row .cell:first-child {
-          background-color: #f5f7fa;
-          font-weight: bold; }
+          background-color: #f5f7fa; }
         .sc-table-inner .pricing-table .table-row .cell.highlight {
           background-color: #fff5f7;
           color: #ff4081;
-          font-weight: bold;
+          font-weight: 900;
           border-left: 2px solid #ff4081;
           border-right: 2px solid #ff4081; }
     .sc-table-inner .pricing-table .header {
